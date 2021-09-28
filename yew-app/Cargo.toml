@@ -1,0 +1,10 @@
+[package]
+name = "yew-app"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# 你可以在此处查看最新版本: https://crates.io/crates/yew
+yew = "0.18"
